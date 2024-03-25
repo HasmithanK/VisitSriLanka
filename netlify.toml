@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/"
+  to = "/S2_IntroPage.html"
+  status = 200
